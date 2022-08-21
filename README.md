@@ -1,8 +1,7 @@
 <img src="./images/img1.svg"/>
 
 
-<p align="right"><em>一名中国科学技术大学的在读研究生，目前在企业实习😊</br>
-</em></p>
+<p align="right"><em>一名中国科学技术大学的在读研究生，目前是一名嵌入式方向的实习生😊</br></em></p>
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
